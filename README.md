@@ -25,7 +25,7 @@ I work on production perception systems for autonomous vehicles, specializing in
 
 ## 📘 Resources I've made
 
-### [Autonomous Driving Perception Engineer Interview Guide](https://gumroad.com/l/av-perception-guide)
+### [Autonomous Driving Perception Engineer Interview Guide][(https://gumroad.com/l/av-perception-guide](https://5461525410783.gumroad.com/l/fxfuhp))
 > 10 senior-level Q&A for AV perception interviews — BEV, sensor fusion, 3D detection, system design & deployment. Written from real interview experience on both sides of the table.
 > 
 > `Camera Calibration` `BEV / Tri-plane` `PointPillars` `CenterPoint vs DETR` `LiDAR + Radar Fusion` `INT8 Quantization` `System Design`
